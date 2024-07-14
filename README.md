@@ -1,34 +1,18 @@
-
 ![Logo](https://i.ibb.co/wsjYm12/image.png)
-
 
 # Bali Resto
 
-Bali Resto adalah software desktop berbahasa C#. Software ini ditujukan untuk menjalankan fitur aritmatika dan logika sederhana.
+Bali Resto is desktop software in C#. This software is intended to run simple arithmetic and logic features.
+
+## Integration
+This system uses C#
 
 
+## User Features
 
-## Integrasi
-Sistem ini menggunakan C#
+- Simple cashier calculations
+- Authentication
 
-
-## Fitur Pengguna
-
-- Perhitungan Kasir sederhana
-- Autentikasi
-
-
-
-
-## Fitur Sistem
-
-- C#
-- Login
-- Logic and arithmatic
-
-## Optimalisasi
-
--
 
 ## Run Locally
 
@@ -45,6 +29,6 @@ Clone the project
 ![App Screenshot](https://i.ibb.co/cQrBD1g/image.png)
 
 
-## Saran
+## Suggestion
 
-Untuk saran dan masukan sistem ini harap berkenan email ke valleryan1212@gmail.com
+For suggestions and input on this system, please email valleryan1212@gmail.com
